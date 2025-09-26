@@ -1,5 +1,5 @@
 {
-  "name": "@saintno/comfyui-sdk",
+  "name": "@repo/comfyui-sdk",
   "version": "0.2.48",
   "description": "SDK for ComfyUI",
   "main": "build/index.esm.js",

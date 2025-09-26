@@ -36,7 +36,7 @@ const api = new ComfyApi("http://localhost:8189").init();
  */
 const workflow = Txt2ImgPrompt.input(
   "checkpoint",
-  "SDXL/realvisxlV40_v40LightningBakedvae.safetensors",
+  "xl_base/sd_xl_base_1.0.safetensors",
   /**
    * Use the client's osType to encode the path
    */
